@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I *really* like markdown. It is so **cool**. Books and articles for my everyday needs could be reflected using markdown :heart:

@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![MEME](https://vegnews.com/media/W1siZiIsIjk4NzcvVmVnTmV3c01lbWUuanBnIl0sWyJwIiwidGh1bWIiLCI2ODB4NDAyIyIseyJmb3JtYXQiOiJqcGcifV0sWyJwIiwib3B0aW1pemUiXV0/VegNewsMeme.jpg?sha=84c5fcdaab096e45)
